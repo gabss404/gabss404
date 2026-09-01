@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d3320&height=200&section=header&text=Gabriela%20Costa&fontSize=45&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Gabriela%20Costa&fontSize=45&fontColor=00FF7F&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18&descColor=00FF7F)
    ### Hi there! I'm Gabriela 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-da-costa-rocha-030379296)

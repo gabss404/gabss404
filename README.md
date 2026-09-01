@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:000000&height=200&section=header&text=Gabriela%20Costa&fontSize=45&fontColor=00FF7F&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18&descColor=00FF7F)
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=39FF14&background=000000&center=true&vCenter=true&width=600&height=100&lines=Gabriela+Costa;Java+Backend+Developer;Future+Software+Engineer)
    ### Hi there! I'm Gabriela 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-da-costa-rocha-030379296)

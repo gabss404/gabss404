@@ -1,6 +1,5 @@
 <div align="center"
-   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:2b0f1c,50:e8809f,100:c9a04e&height=200&section=header&text=Gabriela%20Costa&fontSize=42&fontColor=f2e4c9&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18&descColor=f2e4c9)
+   https://raw.githubusercontent.com/gabss404/gabss404/refs/heads/main/banner-sakura-final.svg
 
    ### Hi there! I'm Gabriela 👋
 

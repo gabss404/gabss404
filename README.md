@@ -1,5 +1,9 @@
-[![Matrix](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)](https://github.com/gabss404)
+
  ### Hi there! I'm Gabriela 👋
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-da-costa-rocha-030379296)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabss404)
+ 
 
 - 🎓 Computer Science student (Systems Analysis and Development)
 - 💻 Focused on Java Backend Development

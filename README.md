@@ -1,6 +1,6 @@
 <div align="center"
-   https://raw.githubusercontent.com/gabss404/gabss404/refs/heads/main/banner-sakura-final.svg
 
+   ![Banner](https://raw.githubusercontent.com/gabss404/gabss404/main/banner-sakura-final.svg)
    ### Hi there! I'm Gabriela 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-e8809f?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-da-costa-rocha-030379296)

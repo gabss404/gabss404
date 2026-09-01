@@ -1,6 +1,6 @@
 <div align="center">
 
-Banner sakura final · SVG
+file:///C:/Users/LENOVO/Downloads/banner-sakura-final.svg
 
    ### Hi there! I'm Gabriela 👋
 

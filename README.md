@@ -1,7 +1,7 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:00ff00&height=200&section=header&text=Gabriela%20Costa&fontSize=45&fontColor=00FF00&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18)
-                                          ### Hi there! I'm Gabriela 👋
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d3320&height=200&section=header&text=Gabriela%20Costa&fontSize=45&fontColor=39FF14&animation=fadeIn&fontAlignY=35&desc=Java%20Backend%20Developer&descAlignY=55&descSize=18)
+   ### Hi there! I'm Gabriela 👋
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriela-da-costa-rocha-030379296)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gabss404)

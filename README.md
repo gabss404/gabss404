@@ -1,4 +1,5 @@
-![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Gabriela%20Costa&fontSize=40&fontColor=00FF00&animation=fadeIn) ### Hi there! I'm Gabriela 👋
+![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=440&lines=Gabriela+Costa;Java+Backend+Developer;Future+Software+Engineer)
+ ### Hi there! I'm Gabriela 👋
 
 - 🎓 Computer Science student (Systems Analysis and Development)
 - 💻 Focused on Java Backend Development

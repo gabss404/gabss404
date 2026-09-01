@@ -1,6 +1,6 @@
 <div align="center">
 
-banner-sakura-final.svg
+https://raw.githubusercontent.com/gabss404/gabss404/main/banner-sakura-final.svg)
 
    ### Hi there! I'm Gabriela 👋
 

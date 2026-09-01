@@ -1,16 +1,14 @@
-## Hi there 👋
+![Header](https://capsule-render.vercel.app/api?type=rect&color=000000&height=150&section=header&text=Gabriela%20Costa&fontSize=40&fontColor=00FF00&animation=fadeIn) ### Hi there! I'm Gabriela 👋
 
-<!--
-**gabss404/gabss404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🎓 Computer Science student (Systems Analysis and Development)
+- 💻 Focused on Java Backend Development
+- 🌱 Currently learning programming logic, OOP, and data structures
+- 🎯 Goal: becoming a Software Engineer
+- 📫 Reach me: - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/gabriela-da-costa-rocha-030379296)
 
-Here are some ideas to get you started:
+### 🛠️ Technologies & Tools
+![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Featured Projects
+- [user-registration-system](https://github.com/gabss404/user-registration-system) — Java console app for user registration
+- [library-management-system](https://github.com/gabss404/library-management-system) — Java library management system using OOP

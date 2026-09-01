@@ -1,6 +1,6 @@
 <div align="center">
 
-![Banner](./banner-sakura-final.svg)
+banner-sakura-final.svg
 
    ### Hi there! I'm Gabriela 👋
 

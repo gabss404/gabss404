@@ -1,5 +1,5 @@
-![Typing SVG](https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=00FF00&background=000000&center=true&vCenter=true&width=440&lines=Gabriela+Costa;Java+Backend+Developer;Future+Software+Engineer)
- ### Hi there! I'm Gabriela 👋
+[![Matrix](https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif)](https://github.com/gabss404)
+ Hi there! I'm Gabriela 👋
 
 - 🎓 Computer Science student (Systems Analysis and Development)
 - 💻 Focused on Java Backend Development

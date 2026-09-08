@@ -12,6 +12,7 @@
 ---
 
 ### 💬 About me
+
 - 🎓 Systems Analysis and Development student (ADS) + Java Back-End specialization (EBAC)
 - 💻 Focused on Java Backend Development
 - 🌱 Currently deepening skills in programming logic, Object-Oriented Programming (OOP), SQL databases and Git/GitHub
@@ -22,8 +23,19 @@
 ---
 
 ### 🛠️ Technologies & Tools
+
 ![Java](https://img.shields.io/badge/-Java-ED8B00?style=flat&logo=java&logoColor=white)
 ![OOP](https://img.shields.io/badge/-OOP-4B8BBE?style=flat&logo=codeigniter&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat&logo=intellijidea&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?s
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)
+
+---
+
+### 📌 Featured Projects
+
+- 📖 [library-management-system](https://github.com/gabss404/library-management-system) — Java library management system using OOP
+- 🧾 [user-registration-system](https://github.com/gabss404/user-registration-system) — Java console app for user registration, applying OOP and data validation
+
+---
